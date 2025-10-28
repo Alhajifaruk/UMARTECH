@@ -1,4 +1,4 @@
-/* const myNumber = +2348037177814;
+const myNumber = +2348037177814;
 
 document.getElementById('myForm').addEventListener('submit', function (e) {
     e.preventDefault();
@@ -9,4 +9,3 @@ document.getElementById('myForm').addEventListener('submit', function (e) {
     const url = `https://wa.me/${myNumber}?text=${message}`;
     window.open(url);
 })
-*/
